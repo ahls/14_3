@@ -1,0 +1,30 @@
+body{
+    background-color: #2B2B2B;
+}
+img{
+    position: relative;
+}
+h1
+{
+    color:seashell;
+    position: absolute;
+    top: 15px;
+    width: 100%;
+    text-align: center;    
+}
+form
+{
+    text-align: center;
+}
+.searchBtn
+{
+    background-color: grey;
+    color: white;
+    outline: white solid 1px;
+}
+.deleteBtn
+{
+    background-color: orangered;
+    color: white;
+    outline: white solid 1px;
+}
